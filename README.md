@@ -88,7 +88,10 @@ Dynamixel SDK: 모터 제어.
 Ctrl + C 입력 시 종료됩니다.
 
 동작영상.
-https://github.com/user-attachments/assets/b19eb803-44ff-4b76-ad0c-8e088de1273c
+
+
+
+https://github.com/user-attachments/assets/60199ce1-32e4-4a2f-9236-9ccd3d9bd48f
 
 
 
