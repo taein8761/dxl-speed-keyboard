@@ -42,7 +42,7 @@ int main(void) {
     }
 
     // 동영상 파일로 저장하기 위한 VideoWriter 생성
-    VideoWriter videoFile("output_video.mp4", VideoWriter::fourcc('M', 'J', 'P', 'G'), 30.0, Size(640, 360), true);
+    VideoWriter videoFile("output_video.mp4", VideoWriter::fourcc('X', '2', '6', '4'), 30.0, Size(640, 360), true);
     if (!videoFile.isOpened()) {
         cerr << "동영상 파일 저장을 위한 Writer 열기 실패!" << endl;
         return -1;
